@@ -1,2 +1,2 @@
 # kaggle
-My Kaggle machine learning work.
+A collection of my Kaggle projects as I learn Machine Learning.
